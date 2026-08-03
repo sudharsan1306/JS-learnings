@@ -11,4 +11,4 @@ let square = (n) => {
         console.log(row);
     }
 }
-square(40)
+square(10)
