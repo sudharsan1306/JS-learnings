@@ -2,8 +2,8 @@ let productName = "laptop";
 let price = 50000;
 let discount = 10 ;
 
-let StartDate = new Date("2026-07-03");
-let endDate = new Date("2026-08-03");
+let StartDate = new Date("2026-08-03");
+let endDate = new Date("2026-09-03");
 
 let today = new Date();
 
